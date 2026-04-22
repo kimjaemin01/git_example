@@ -1,0 +1,8 @@
+.env
+.python-version
+.venv/
+venv/
+__pycache__/
+*.png
+*.jpg
+*.jpeg
